@@ -6,9 +6,9 @@ Period 10
 1. pyramid <br>
 2. cone
 
-<h2> the mdl takes two new commands: </h2> <br>
+<h2> the mdl takes two new commands: </h2> 
 <code> <b> pyramid x y z width height depth </b> </code> <br>
-where (x, y, z) is the bottom left corner of the pyramid, and the height is the vertical height.
+where (x, y, z) is the bottom left corner of the pyramid, and the height is the vertical height. <br>
 
 <code> <b> cone x y z r h </b> </code> <br>
 where (x, y, z) is the center of the base of the cone, the radius is the base radius, and the height is the vertical height.
